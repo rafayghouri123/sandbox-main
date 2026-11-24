@@ -158,7 +158,7 @@ Every path is resolved inside the sandbox's game directory, which is also the di
 ### 1. Clone and install
 
 ```bash
-git clone git@github.com:code-with-antonio/sandbox.git
+
 cd sandbox
 npm install
 ```
